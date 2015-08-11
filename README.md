@@ -24,7 +24,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Object-Oriented Programming
 
 * [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
+~~* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]~~
 
 #####Functional Programming
 
@@ -81,11 +81,11 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Methodologies
 
-* [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]
+~~* [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]~~
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
 * [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers** [53:58]
-* [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** [13:12]
-* [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]
+~~* [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** [13:12]~~
+~~* [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]~~
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
 * [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** [47:47]
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
